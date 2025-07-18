@@ -62,12 +62,14 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'progress-orange': '#FF8C00',
-				'progress-blue': '#0052CC'
+				'figma-purple': '#0D99FF',
+				'figma-orange': '#FF7262',
+				'figma-green': '#1BC47D',
+				'figma-blue': '#0D99FF'
 			},
 			fontFamily: {
-				'montserrat': ['Montserrat', 'sans-serif'],
-				'open-sans': ['Open Sans', 'sans-serif']
+				'inter': ['Inter', 'sans-serif'],
+				'sans': ['Inter', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
